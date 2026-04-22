@@ -5,8 +5,8 @@ Este repositório contém exemplos de automações em python3 que podem ser úte
 # Desenvovedor
 _Lorran C. S._
 
-**Informações finais**
-*este repositório foi criado cok intuito de apresentar ideias e modelos de ferramentas para ciber segurança, indo a diversas areas como **pentest** **osint** **web** e outras...*
+# *Informações finais*
+*este repositório foi criado com intuito de apresentar ideias e modelos de ferramentas para ciber segurança, indo a diversas areas como **pentest** **osint** **web** e outras...*
 
 # Acesso
-[clique aqui](https://github.com/lorrandesenvolvedor/Automa-es-em-python3-para-hacking/tree/main)
+[clique aqui para acessar o diretorio](https://github.com/lorrandesenvolvedor/Automa-es-em-python3-para-hacking/tree/main)
