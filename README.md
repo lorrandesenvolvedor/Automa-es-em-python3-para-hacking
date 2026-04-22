@@ -10,4 +10,7 @@ _Lorran C. S._
 
 # Acesso
 [clique aqui para acessar o diretorio completo](https://github.com/lorrandesenvolvedor/Automa-es-em-python3-para-hacking/tree/main)
+
+_______________________________________
+
 [brute force status code 200](https://github.com/lorrandesenvolvedor/Automa-es-em-python3-para-hacking/blob/main/Bruteforce/Bruteforcestatuscode/README.md)
