@@ -9,4 +9,4 @@ _Lorran C. S._
 *este repositório foi criado cok intuito de apresentar ideias e modelos de ferramentas para ciber segurança, indo a diversas areas como **pentest** **osint** **web** e outras...*
 
 # Acesso
-[clique aqui](https)
+[clique aqui](https://github.com/lorrandesenvolvedor/Automa-es-em-python3-para-hacking/tree/main)
