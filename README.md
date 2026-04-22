@@ -9,4 +9,5 @@ _Lorran C. S._
 *este repositório foi criado com intuito de apresentar ideias e modelos de ferramentas para ciber segurança, indo a diversas areas como **pentest** **osint** **web** e outras...*
 
 # Acesso
-[clique aqui para acessar o diretorio](https://github.com/lorrandesenvolvedor/Automa-es-em-python3-para-hacking/tree/main)
+[clique aqui para acessar o diretorio completo](https://github.com/lorrandesenvolvedor/Automa-es-em-python3-para-hacking/tree/main)
+[brute force status code 200](https://github.com/lorrandesenvolvedor/Automa-es-em-python3-para-hacking/blob/main/Bruteforce/Bruteforcestatuscode/README.md)
