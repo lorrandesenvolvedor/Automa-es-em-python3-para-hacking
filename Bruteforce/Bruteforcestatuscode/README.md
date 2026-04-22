@@ -14,4 +14,4 @@ _Qualquer erro se ouver, você tera que confirmar se as informações do alvo es
 # Desenvolvedor 
 _@Lorran C. S._
 # código 
-[clique aqui](https://site.com)
+[clique aqui](https://github.com/lorrandesenvolvedor/Automa-es-em-python3-para-hacking/tree/main/Bruteforce/Bruteforcestatuscode)
