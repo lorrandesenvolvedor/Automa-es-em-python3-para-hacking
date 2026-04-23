@@ -1,5 +1,5 @@
 # SCRIPT DE AUTENTICAÇÃO DE 2 FATORES (2FA)
-![img](./img)
+![img](./img2.jpg)
 _Este script depende apenas que você configure o arquivo **keys.py**, e execute utilizando o arquivo **python3 2fa-Code.py**_
 _____________________________________________
 **instalação**
