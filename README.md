@@ -15,4 +15,6 @@ _______________________________________
 
 [brute force status code 200](https://github.com/lorrandesenvolvedor/Automa-es-em-python3-para-hacking/blob/main/Bruteforce/Bruteforcestatuscode/README.md)
 _______________________________________
+[brute force verificando Text](https://github.com/lorrandesenvolvedor/Automa-es-em-python3-para-hacking/tree/main/Bruteforce/BruteText)
+_______________________________________
 [2facode](https://github.com/lorrandesenvolvedor/Automa-es-em-python3-para-hacking/tree/main/2faCode)
