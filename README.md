@@ -18,3 +18,5 @@ _______________________________________
 [brute force verificando Text](https://github.com/lorrandesenvolvedor/Automa-es-em-python3-para-hacking/tree/main/Bruteforce/BruteText)
 _______________________________________
 [2facode](https://github.com/lorrandesenvolvedor/Automa-es-em-python3-para-hacking/tree/main/2faCode)
+_______________________________________
+[XssStrick](https://github.com/lorrandesenvolvedor/Automa-es-em-python3-para-hacking/blob/main/XssStrick/Readme.md)
