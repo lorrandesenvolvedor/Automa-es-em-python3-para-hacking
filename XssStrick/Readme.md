@@ -20,5 +20,5 @@ Ainda no arquivo principal **xssStrick.py** você deve adicionar nessa tupla os 
 
 
 # Acesso
-[clique aqui para acessar o diretorio completo](https://link diretório)
+[clique aqui para acessar o diretorio completo](https://github.com/lorrandesenvolvedor/Automa-es-em-python3-para-hacking/tree/main/XssStrick)
 
